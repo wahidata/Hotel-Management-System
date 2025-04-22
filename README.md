@@ -24,3 +24,9 @@ Developed a hotel management system using **Python**, **Tkinter**, and **SQLite*
 ![Output of room reserved.](https://github.com/user-attachments/assets/1f984c42-a1bf-4cc3-9dd4-e0d28de25604)
 
 
+## How to Run This Project
+
+Make sure all files are in the same directory, then run:
+
+in cmd/terminal, type the below and ENTER.
+python main_app.py
